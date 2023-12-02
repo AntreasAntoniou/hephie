@@ -35,7 +35,7 @@ This document serves as a guide for the technical development of Hephie, outlini
 
 ### Testing:
 - Write unit tests using [Jest](https://jestjs.io/) for JavaScript code.
-- Use [unittest](https://docs.python.org/3/library/unittest.html) for Python code.
+- Use `pytest` for Python code.
 - Aim for a high code coverage, and regularly run `npm test` or `python -m unittest` to check.
 
 ## Debugging Tips
